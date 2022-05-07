@@ -33,6 +33,7 @@ export const styles = StyleSheet.create({
   },
   resultado: {
     color: 'white',
+    marginBottom: 10,
     textAlign: 'right',
     fontSize: 60,
   },
